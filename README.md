@@ -346,14 +346,14 @@ body{
 
 
 ## OUTPUT:
-![output](./static/img/cwd output1.png)
+![output](./static/img/cwdoutput1.png)
 
-![output](./static/img/cwd output2.png)
+![output](./static/img/cwdoutput2.png)
 
-![output](./static/img/cwd output3.png)
+![output](./static/img/cwdoutput3.png)
 
-![output](./static/img/cwd output4.png)
+![output](./static/img/cwdoutput4.png)
 
-![output](./static/img/cwd report1.jpeg)
+![output](./static/img/cwdreport1.png)
 
-![output](./static/img/cwd report2.jpeg)
+![output](./static/img/cwdreport2.png)
